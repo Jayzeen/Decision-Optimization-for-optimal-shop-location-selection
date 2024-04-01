@@ -1,5 +1,7 @@
 # Coffee Shop Location Optimization Using Decision Optimization
 
+![Decision Optimization optimal location selection Output](https://github.com/Jayzeen/Decision-Optimization-for-optimal-shop-location-selection/assets/63718579/dff2b0c3-8ed5-4792-a095-d1f9f0fc9e01)
+
 ## Overview
 This project aims to optimize the selection of optimal locations for setting up coffee shops based on their proximity to public libraries in a specific area.
 The goal is to identify the best locations for coffee shops to maximize accessibility for potential customers while considering the distance to nearby libraries.
